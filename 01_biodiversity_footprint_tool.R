@@ -309,6 +309,9 @@ write_xlsx(
   path = "results/biodiversity_impact_workbook.xlsx"
 )
 
+if (!dir.exists("results/impact_maps")) {
+  dir.create("results/impact_maps", recursive = TRUE)
+}
 # Save csv of procurement impacts with geographic distribution for `02_results_maper.R`
 all_procurement_impact_data <- bind_rows(
   procurement_endpoints,
