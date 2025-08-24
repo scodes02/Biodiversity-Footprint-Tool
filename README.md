@@ -18,6 +18,7 @@ This repository implements an end-to-end biodiversity footprint assessment for o
 ├── results/                           # Generated Excel and spatial outputs
 ├── auslci/                            # Original AusLCI data files
 └── currency_handling/                 # ABS & other sources for inflation/currency factors
+```
 
 ## Primary scripts
 
