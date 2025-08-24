@@ -1,0 +1,36 @@
+Impact,Impact_Region,Ecosystem_Impacted,Impact_Pathway,Input_Unit,Endpoint_Factor,Endpoint_Unit
+Global warming,Global,Terrestrial ecosystems,,kg CO2 eq,1.7598309745018596e-15,PDF*y/kg
+Global warming,Global,Freshwater Ecosystems,,kg CO2 eq,5.469744920749023e-16,PDF*y/kg
+Photochemical Ozone Formation,Australia,Terrestrial ecosystems,,kg NOx eq,1.1e-16,PDF.yr/kg
+Terrestrial acidification,Australia,Terrestrial ecosystems,,kg SO2 eq,4.604028162099803e-14,PDF.yr/kg
+Freshwater eutrophication,Australia,Freshwater ecosystems,P emissions to water,kg P eq,7.04541395528584e-13,PDF.yr/kg
+Freshwater eutrophication,Australia,Freshwater ecosystems,P emissions to soil,kg P eq,4.9706435604731406e-14,PDF.yr/kg
+Marine eutrophication,Australia,Marine ecosystems,N emission to soil,kg N eq,5.000487788029675e-16,PDF.yr/kg
+Marine eutrophication,Australia,Marine ecosystems,N emission to freshwater (river),kg N eq,6.9397013448509385e-15,PDF.yr/kg
+Marine eutrophication,Australia,Marine ecosystems,N emission to marine system,kg N eq,4.275902995243183e-16,PDF.yr/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.hom.airI,"kg 1,4-DCB",1.2233678415671771,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.ind.airI,"kg 1,4-DCB",1.2234786451043045,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.airU,"kg 1,4-DCB",1.2235525141290562,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.airC,"kg 1,4-DCB",1.2231831690052983,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.fr.waterC,"kg 1,4-DCB",58.51935900671452,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.sea.waterC,"kg 1,4-DCB",0.223477118035317,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.nat.soilC,"kg 1,4-DCB",1.6552355999841106,PDF.m3.day/kg
+Freshwater ecotoxicity,Global,Freshwater ecosystems,Em.agr.soilC,"kg 1,4-DCB",1.6552415183607516,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.hom.airI,"kg 1,4-DCB",1016.550362481342,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.ind.airI,"kg 1,4-DCB",1016.1901519249408,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.airU,"kg 1,4-DCB",1015.9500115540076,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.airC,"kg 1,4-DCB",1017.1507134086764,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.fr.waterC,"kg 1,4-DCB",913.144806277169,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.sea waterC,"kg 1,4-DCB",761.3229185580561,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.nat.soilC,"kg 1,4-DCB",646.3722390273927,PDF.m3.day/kg
+Marine ecotoxicity,Global,Marine ecosystems,Em.agr.soilC,"kg 1,4-DCB",646.372215340483,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.hom.airI,"kg 1,4-DCB",0.23665178976936407,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.ind.airI,"kg 1,4-DCB",0.23656791790344356,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.airU,"kg 1,4-DCB",0.2365120033261633,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.airC,"kg 1,4-DCB",0.23679157621256489,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.fr.waterC,"kg 1,4-DCB",0.2109702578340194,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.sea.waterC,"kg 1,4-DCB",0.04322422762016122,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.nat.soilC,"kg 1,4-DCB",9.483216319046113,PDF.m3.day/kg
+Terrestrial ecotoxicity,Global,Terrestrial ecosystems,Em.agr.soilC,"kg 1,4-DCB",9.483279663694306,PDF.m3.day/kg
+Land use,Australia,Terrestrial ecosystems,,m2a crop eq,1.1508635363906734e-13,PDF.yr/m2
+Water consumption,Australia,Freshwater ecosystems,,Water consumption,5.0462191314131124e-14,PDF.yr/m3

@@ -1,0 +1,141 @@
+EF,Impact_Area,Modelling_Unit,Factor,Impact_Unit
+"air passenger travel, domestic/AU U",Freshwater ecotoxicity,1.0 p*km,1.6471448390412434e-4,"kg 1,4-DCB"
+"air passenger travel, domestic/AU U",Freshwater eutrophication,1.0 p*km,5.10447645519e-7,kg P eq
+"air passenger travel, domestic/AU U",Global warming,1.0 p*km,0.17334190352070047,kg CO2 eq
+"air passenger travel, domestic/AU U",Land use,1.0 p*km,1.8878120805761398e-4,m2a crop eq
+"air passenger travel, domestic/AU U",Marine ecotoxicity,1.0 p*km,5.280179426954919e-4,"kg 1,4-DCB"
+"air passenger travel, domestic/AU U",Marine eutrophication,1.0 p*km,6.929047635311595e-7,kg N eq
+"air passenger travel, domestic/AU U","Ozone formation, Terrestrial ecosystems",1.0 p*km,7.517274075790855e-4,kg NOx eq
+"air passenger travel, domestic/AU U",Terrestrial acidification,1.0 p*km,4.912787404099815e-4,kg SO2 eq
+"air passenger travel, domestic/AU U",Terrestrial ecotoxicity,1.0 p*km,0.15449355853280114,"kg 1,4-DCB"
+"air passenger travel, domestic/AU U",Water consumption,1.0 p*km,0.005136267996176936,m3
+"air passenger travel, international/AU U",Freshwater ecotoxicity,1.0 p*km,1.6710935150590232e-4,"kg 1,4-DCB"
+"air passenger travel, international/AU U",Freshwater eutrophication,1.0 p*km,5.13656578446e-7,kg P eq
+"air passenger travel, international/AU U",Global warming,1.0 p*km,0.1550416540337489,kg CO2 eq
+"air passenger travel, international/AU U",Land use,1.0 p*km,1.7402973942250003e-4,m2a crop eq
+"air passenger travel, international/AU U",Marine ecotoxicity,1.0 p*km,4.922086659873646e-4,"kg 1,4-DCB"
+"air passenger travel, international/AU U",Marine eutrophication,1.0 p*km,6.203829627925225e-7,kg N eq
+"air passenger travel, international/AU U","Ozone formation, Terrestrial ecosystems",1.0 p*km,6.69501585040322e-4,kg NOx eq
+"air passenger travel, international/AU U",Terrestrial acidification,1.0 p*km,4.3712413509739827e-4,kg SO2 eq
+"air passenger travel, international/AU U",Terrestrial ecotoxicity,1.0 p*km,0.12529147040656222,"kg 1,4-DCB"
+"air passenger travel, international/AU U",Water consumption,1.0 p*km,0.005555894686981526,m3
+"electricity, low voltage, Victoria/AU U",Freshwater ecotoxicity,1.0 kWh,0.007602851919989697,"kg 1,4-DCB"
+"electricity, low voltage, Victoria/AU U",Freshwater eutrophication,1.0 kWh,3.1590258868277e-5,kg P eq
+"electricity, low voltage, Victoria/AU U",Global warming,1.0 kWh,1.0087591798919175,kg CO2 eq
+"electricity, low voltage, Victoria/AU U",Land use,1.0 kWh,2.2452218215139998e-4,m2a crop eq
+"electricity, low voltage, Victoria/AU U",Marine ecotoxicity,1.0 kWh,0.010871405106562796,"kg 1,4-DCB"
+"electricity, low voltage, Victoria/AU U",Marine eutrophication,1.0 kWh,5.411020622932373e-6,kg N eq
+"electricity, low voltage, Victoria/AU U","Ozone formation, Terrestrial ecosystems",1.0 kWh,0.0011569398447642142,kg NOx eq
+"electricity, low voltage, Victoria/AU U",Terrestrial acidification,1.0 kWh,5.04580223857271e-4,kg SO2 eq
+"electricity, low voltage, Victoria/AU U",Terrestrial ecotoxicity,1.0 kWh,0.8144472882877383,"kg 1,4-DCB"
+"electricity, low voltage, Victoria/AU U",Water consumption,1.0 kWh,0.06562741048541514,m3
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Freshwater ecotoxicity,1.0 MJ,9.033513583411758e-5,"kg 1,4-DCB"
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Freshwater eutrophication,1.0 MJ,2.911022895464e-7,kg P eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Global warming,1.0 MJ,0.08189358665048539,kg CO2 eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Land use,1.0 MJ,5.4536266068639e-5,m2a crop eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Marine ecotoxicity,1.0 MJ,1.5698857935389032e-4,"kg 1,4-DCB"
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Marine eutrophication,1.0 MJ,1.7504481210739319e-7,kg N eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER","Ozone formation, Terrestrial ecosystems",1.0 MJ,8.82731078886598e-5,kg NOx eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Terrestrial acidification,1.0 MJ,6.13046193952847e-5,kg SO2 eq
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Terrestrial ecotoxicity,1.0 MJ,0.01572372777418654,"kg 1,4-DCB"
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Water consumption,1.0 MJ,0.0025484174171159363,m3
+"natural gas,combusted, Victoria NGA values /AU U",Freshwater ecotoxicity,1.0 MJ,8.229140032285309e-7,"kg 1,4-DCB"
+"natural gas,combusted, Victoria NGA values /AU U",Freshwater eutrophication,1.0 MJ,2.543278969536e-9,kg P eq
+"natural gas,combusted, Victoria NGA values /AU U",Global warming,1.0 MJ,0.0560566119214164,kg CO2 eq
+"natural gas,combusted, Victoria NGA values /AU U",Land use,1.0 MJ,7.35786165557e-8,m2a crop eq
+"natural gas,combusted, Victoria NGA values /AU U",Marine ecotoxicity,1.0 MJ,3.182288431496946e-6,"kg 1,4-DCB"
+"natural gas,combusted, Victoria NGA values /AU U",Marine eutrophication,1.0 MJ,3.274604035915848e-10,kg N eq
+"natural gas,combusted, Victoria NGA values /AU U","Ozone formation, Terrestrial ecosystems",1.0 MJ,1.4117783984963312e-4,kg NOx eq
+"natural gas,combusted, Victoria NGA values /AU U",Terrestrial acidification,1.0 MJ,5.014869307092793e-5,kg SO2 eq
+"natural gas,combusted, Victoria NGA values /AU U",Terrestrial ecotoxicity,1.0 MJ,0.0031668830302174346,"kg 1,4-DCB"
+"natural gas,combusted, Victoria NGA values /AU U",Water consumption,1.0 MJ,3.15613556287209e-5,m3
+"waste treatment, corrugated containers, at landfill",Freshwater ecotoxicity,1.0 kg,-6.440387683928442e-4,"kg 1,4-DCB"
+"waste treatment, corrugated containers, at landfill",Freshwater eutrophication,1.0 kg,-1.5812929207899998e-7,kg P eq
+"waste treatment, corrugated containers, at landfill",Global warming,1.0 kg,2.308439180708423,kg CO2 eq
+"waste treatment, corrugated containers, at landfill",Land use,1.0 kg,0.0013981451117201298,m2a crop eq
+"waste treatment, corrugated containers, at landfill",Marine ecotoxicity,1.0 kg,-8.72405555908895e-4,"kg 1,4-DCB"
+"waste treatment, corrugated containers, at landfill",Marine eutrophication,1.0 kg,-5.663097519930697e-7,kg N eq
+"waste treatment, corrugated containers, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.013381044373691496,kg NOx eq
+"waste treatment, corrugated containers, at landfill",Terrestrial acidification,1.0 kg,8.047805711023843e-4,kg SO2 eq
+"waste treatment, corrugated containers, at landfill",Terrestrial ecotoxicity,1.0 kg,0.01454688997148477,"kg 1,4-DCB"
+"waste treatment, corrugated containers, at landfill",Water consumption,1.0 kg,-0.07137193928883895,m3
+"waste treatment, food, at landfill",Freshwater ecotoxicity,1.0 kg,-3.5042093943413606e-4,"kg 1,4-DCB"
+"waste treatment, food, at landfill",Freshwater eutrophication,1.0 kg,6.411042489999994e-9,kg P eq
+"waste treatment, food, at landfill",Global warming,1.0 kg,1.3796312293466015,kg CO2 eq
+"waste treatment, food, at landfill",Land use,1.0 kg,0.00141599089075307,m2a crop eq
+"waste treatment, food, at landfill",Marine ecotoxicity,1.0 kg,-4.6752648807191064e-4,"kg 1,4-DCB"
+"waste treatment, food, at landfill",Marine eutrophication,1.0 kg,-3.1809484381412794e-7,kg N eq
+"waste treatment, food, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.007988981201968752,kg NOx eq
+"waste treatment, food, at landfill",Terrestrial acidification,1.0 kg,4.894907064575541e-4,kg SO2 eq
+"waste treatment, food, at landfill",Terrestrial ecotoxicity,1.0 kg,0.012378075776974288,"kg 1,4-DCB"
+"waste treatment, food, at landfill",Water consumption,1.0 kg,-0.041525716569185536,m3
+"waste treatment, garden and green, at landfill",Freshwater ecotoxicity,1.0 kg,-2.405290271406292e-4,"kg 1,4-DCB"
+"waste treatment, garden and green, at landfill",Freshwater eutrophication,1.0 kg,6.7993361513e-8,kg P eq
+"waste treatment, garden and green, at landfill",Global warming,1.0 kg,1.0320072500122794,kg CO2 eq
+"waste treatment, garden and green, at landfill",Land use,1.0 kg,0.0014226701119498298,m2a crop eq
+"waste treatment, garden and green, at landfill",Marine ecotoxicity,1.0 kg,-3.15992992049276e-4,"kg 1,4-DCB"
+"waste treatment, garden and green, at landfill",Marine eutrophication,1.0 kg,-2.2519576680591344e-7,kg N eq
+"waste treatment, garden and green, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.005970898458540558,kg NOx eq
+"waste treatment, garden and green, at landfill",Terrestrial acidification,1.0 kg,3.7148736098168117e-4,kg SO2 eq
+"waste treatment, garden and green, at landfill",Terrestrial ecotoxicity,1.0 kg,0.011566356712875064,"kg 1,4-DCB"
+"waste treatment, garden and green, at landfill",Water consumption,1.0 kg,-0.030355201749692744,m3
+"waste treatment, mixed paper, at landfill",Freshwater ecotoxicity,1.0 kg,-5.908099181480583e-4,"kg 1,4-DCB"
+"waste treatment, mixed paper, at landfill",Freshwater eutrophication,1.0 kg,-1.2830034341600001e-7,kg P eq
+"waste treatment, mixed paper, at landfill",Global warming,1.0 kg,2.1400589391773406,kg CO2 eq
+"waste treatment, mixed paper, at landfill",Land use,1.0 kg,0.00140138047220597,m2a crop eq
+"waste treatment, mixed paper, at landfill",Marine ecotoxicity,1.0 kg,-7.990065935787072e-4,"kg 1,4-DCB"
+"waste treatment, mixed paper, at landfill",Marine eutrophication,1.0 kg,-5.213117881752083e-7,kg N eq
+"waste treatment, mixed paper, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.012403535631672102,kg NOx eq
+"waste treatment, mixed paper, at landfill",Terrestrial acidification,1.0 kg,7.476226849033768e-4,kg SO2 eq
+"waste treatment, mixed paper, at landfill",Terrestrial ecotoxicity,1.0 kg,0.014153713460061128,"kg 1,4-DCB"
+"waste treatment, mixed paper, at landfill",Water consumption,1.0 kg,-0.0659612152309124,m3
+"waste treatment, office paper, at landfill",Freshwater ecotoxicity,1.0 kg,-0.0011265331850623592,"kg 1,4-DCB"
+"waste treatment, office paper, at landfill",Freshwater eutrophication,1.0 kg,-4.28514336108e-7,kg P eq
+"waste treatment, office paper, at landfill",Global warming,1.0 kg,3.8347257378510227,kg CO2 eq
+"waste treatment, office paper, at landfill",Land use,1.0 kg,0.0013688195628415,m2a crop eq
+"waste treatment, office paper, at landfill",Marine ecotoxicity,1.0 kg,-0.00153773261802724,"kg 1,4-DCB"
+"waste treatment, office paper, at landfill",Marine eutrophication,1.0 kg,-9.7419496414302e-7,kg N eq
+"waste treatment, office paper, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.022241685521039653,kg NOx eq
+"waste treatment, office paper, at landfill",Terrestrial acidification,1.0 kg,0.0013228883961970196,kg SO2 eq
+"waste treatment, office paper, at landfill",Terrestrial ecotoxicity,1.0 kg,0.018110853968774644,"kg 1,4-DCB"
+"waste treatment, office paper, at landfill",Water consumption,1.0 kg,-0.12041746436623654,m3
+"waste treatment, rubber and leather, at landfill",Freshwater ecotoxicity,1.0 kg,-5.873757010374448e-4,"kg 1,4-DCB"
+"waste treatment, rubber and leather, at landfill",Freshwater eutrophication,1.0 kg,-1.26375891605e-7,kg P eq
+"waste treatment, rubber and leather, at landfill",Global warming,1.0 kg,2.129195481449403,kg CO2 eq
+"waste treatment, rubber and leather, at landfill",Land use,1.0 kg,0.00140158903877923,m2a crop eq
+"waste treatment, rubber and leather, at landfill",Marine ecotoxicity,1.0 kg,-7.942710293423736e-4,"kg 1,4-DCB"
+"waste treatment, rubber and leather, at landfill",Marine eutrophication,1.0 kg,-5.18408636603161e-7,kg N eq
+"waste treatment, rubber and leather, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.012340470588990144,kg NOx eq
+"waste treatment, rubber and leather, at landfill",Terrestrial acidification,1.0 kg,7.43935078841912e-4,kg SO2 eq
+"waste treatment, rubber and leather, at landfill",Terrestrial ecotoxicity,1.0 kg,0.014128351510631456,"kg 1,4-DCB"
+"waste treatment, rubber and leather, at landfill",Water consumption,1.0 kg,-0.06561214137551469,m3
+"waste treatment, textiles, at landfill",Freshwater ecotoxicity,1.0 kg,-3.29816269353807e-4,"kg 1,4-DCB"
+"waste treatment, textiles, at landfill",Freshwater eutrophication,1.0 kg,1.7957744367000006e-8,kg P eq
+"waste treatment, textiles, at landfill",Global warming,1.0 kg,1.3144517676538747,kg CO2 eq
+"waste treatment, textiles, at landfill",Land use,1.0 kg,0.0014172432952922899,m2a crop eq
+"waste treatment, textiles, at landfill",Marine ecotoxicity,1.0 kg,-4.3911404937192863e-4,"kg 1,4-DCB"
+"waste treatment, textiles, at landfill",Marine eutrophication,1.0 kg,-3.0067631970501237e-7,kg N eq
+"waste treatment, textiles, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.007610590463366838,kg NOx eq
+"waste treatment, textiles, at landfill",Terrestrial acidification,1.0 kg,4.673649877578044e-4,kg SO2 eq
+"waste treatment, textiles, at landfill",Terrestrial ecotoxicity,1.0 kg,0.012225877957637946,"kg 1,4-DCB"
+"waste treatment, textiles, at landfill",Water consumption,1.0 kg,-0.03943124267896127,m3
+"waste treatment, wood and woodwaste, at landfill",Freshwater ecotoxicity,1.0 kg,-2.5735620453706386e-4,"kg 1,4-DCB"
+"waste treatment, wood and woodwaste, at landfill",Freshwater eutrophication,1.0 kg,5.8563590529000004e-8,kg P eq
+"waste treatment, wood and woodwaste, at landfill",Global warming,1.0 kg,1.0852371415650652,kg CO2 eq
+"waste treatment, wood and woodwaste, at landfill",Land use,1.0 kg,0.00142164731469318,m2a crop eq
+"waste treatment, wood and woodwaste, at landfill",Marine ecotoxicity,1.0 kg,-3.3919652667441046e-4,"kg 1,4-DCB"
+"waste treatment, wood and woodwaste, at landfill",Marine eutrophication,1.0 kg,-2.3942091726701046e-7,kg N eq
+"waste treatment, wood and woodwaste, at landfill","Ozone formation, Terrestrial ecosystems",1.0 kg,0.00627991739730919,kg NOx eq
+"waste treatment, wood and woodwaste, at landfill",Terrestrial acidification,1.0 kg,3.895565898618433e-4,kg SO2 eq
+"waste treatment, wood and woodwaste, at landfill",Terrestrial ecotoxicity,1.0 kg,0.011690651250975662,"kg 1,4-DCB"
+"waste treatment, wood and woodwaste, at landfill",Water consumption,1.0 kg,-0.03206568820971973,m3
+Water and Wastewater Melbourne,Freshwater ecotoxicity,1.0 m3,0.0253998977843855,"kg 1,4-DCB"
+Water and Wastewater Melbourne,Freshwater eutrophication,1.0 m3,7.64128572506e-5,kg P eq
+Water and Wastewater Melbourne,Global warming,1.0 m3,2.607922141918548,kg CO2 eq
+Water and Wastewater Melbourne,Land use,1.0 m3,0.011141714741174901,m2a crop eq
+Water and Wastewater Melbourne,Marine ecotoxicity,1.0 m3,0.0367150419073266,"kg 1,4-DCB"
+Water and Wastewater Melbourne,Marine eutrophication,1.0 m3,6.255502732097809e-6,kg N eq
+Water and Wastewater Melbourne,"Ozone formation, Terrestrial ecosystems",1.0 m3,0.0024088580021186016,kg NOx eq
+Water and Wastewater Melbourne,Terrestrial acidification,1.0 m3,0.001781028274045481,kg SO2 eq
+Water and Wastewater Melbourne,Terrestrial ecotoxicity,1.0 m3,3.0655440480102003,"kg 1,4-DCB"
+Water and Wastewater Melbourne,Water consumption,1.0 m3,2.025476176557688,m3

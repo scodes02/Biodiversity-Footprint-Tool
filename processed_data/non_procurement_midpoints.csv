@@ -1,0 +1,235 @@
+Process,Damage_Pathway,Impact_Factor_Input,Impact_Factor,Impact_Factor_Unit,ID,ID Used Y/N,Scope,CA ID,Emission Source,Energy Content Value,Energy Content Unit,Emission Factor Value,Emission Factor source,EF,Activity data UOM,"Emission fcator 
+UOM"
+"air passenger travel, domestic/AU U",Freshwater ecotoxicity,1.0 p*km,1.6471448390412434e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Freshwater eutrophication,1.0 p*km,5.10447645519e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Global warming,1.0 p*km,0.17334190352070047,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Land use,1.0 p*km,1.8878120805761398e-4,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Marine ecotoxicity,1.0 p*km,5.280179426954919e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Marine eutrophication,1.0 p*km,6.929047635311595e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Photochemical Ozone Formation,1.0 p*km,7.517274075790855e-4,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Terrestrial acidification,1.0 p*km,4.912787404099815e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Terrestrial ecotoxicity,1.0 p*km,0.15449355853280114,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, domestic/AU U",Water consumption,1.0 p*km,0.005136267996176936,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Freshwater ecotoxicity,1.0 p*km,1.6710935150590232e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Freshwater eutrophication,1.0 p*km,5.13656578446e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Global warming,1.0 p*km,0.1550416540337489,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Land use,1.0 p*km,1.7402973942250003e-4,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Marine ecotoxicity,1.0 p*km,4.922086659873646e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Marine eutrophication,1.0 p*km,6.203829627925225e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Photochemical Ozone Formation,1.0 p*km,6.69501585040322e-4,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Terrestrial acidification,1.0 p*km,4.3712413509739827e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Terrestrial ecotoxicity,1.0 p*km,0.12529147040656222,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"air passenger travel, international/AU U",Water consumption,1.0 p*km,0.005555894686981526,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Freshwater ecotoxicity,1.0 kWh,0.007602851919989697,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Freshwater eutrophication,1.0 kWh,3.1590258868277e-5,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Global warming,1.0 kWh,1.0087591798919175,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Land use,1.0 kWh,2.2452218215139998e-4,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Marine ecotoxicity,1.0 kWh,0.010871405106562796,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Marine eutrophication,1.0 kWh,5.411020622932373e-6,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Photochemical Ozone Formation,1.0 kWh,0.0011569398447642142,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Terrestrial acidification,1.0 kWh,5.04580223857271e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Terrestrial ecotoxicity,1.0 kWh,0.8144472882877383,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"electricity, low voltage, Victoria/AU U",Water consumption,1.0 kWh,0.06562741048541514,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Freshwater ecotoxicity,1.0 MJ,9.033513583411758e-5,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Freshwater eutrophication,1.0 MJ,2.911022895464e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Global warming,1.0 MJ,0.08189358665048539,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Land use,1.0 MJ,5.4536266068639e-5,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Marine ecotoxicity,1.0 MJ,1.5698857935389032e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Marine eutrophication,1.0 MJ,1.7504481210739319e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Photochemical Ozone Formation,1.0 MJ,8.82731078886598e-5,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Terrestrial acidification,1.0 MJ,6.13046193952847e-5,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Terrestrial ecotoxicity,1.0 MJ,0.01572372777418654,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"heat, liquefied petroleum gas, at industrial furnace >100kW/MJ/RER",Water consumption,1.0 MJ,0.0025484174171159363,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Freshwater ecotoxicity,1.0 MJ,8.229140032285309e-7,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Freshwater eutrophication,1.0 MJ,2.543278969536e-9,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Global warming,1.0 MJ,0.0560566119214164,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Land use,1.0 MJ,7.35786165557e-8,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Marine ecotoxicity,1.0 MJ,3.182288431496946e-6,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Marine eutrophication,1.0 MJ,3.274604035915848e-10,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Photochemical Ozone Formation,1.0 MJ,1.4117783984963312e-4,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Terrestrial acidification,1.0 MJ,5.014869307092793e-5,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Terrestrial ecotoxicity,1.0 MJ,0.0031668830302174346,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"natural gas,combusted, Victoria NGA values /AU U",Water consumption,1.0 MJ,3.15613556287209e-5,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Freshwater ecotoxicity,1.0 kg,-6.440387683928442e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Freshwater eutrophication,1.0 kg,-1.5812929207899998e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Global warming,1.0 kg,2.308439180708423,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Land use,1.0 kg,0.0013981451117201298,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Marine ecotoxicity,1.0 kg,-8.72405555908895e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Marine eutrophication,1.0 kg,-5.663097519930697e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Photochemical Ozone Formation,1.0 kg,0.013381044373691496,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Terrestrial acidification,1.0 kg,8.047805711023843e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Terrestrial ecotoxicity,1.0 kg,0.01454688997148477,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, corrugated containers, at landfill",Water consumption,1.0 kg,-0.07137193928883895,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Freshwater ecotoxicity,1.0 kg,-3.5042093943413606e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Freshwater eutrophication,1.0 kg,6.411042489999994e-9,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Global warming,1.0 kg,1.3796312293466015,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Land use,1.0 kg,0.00141599089075307,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Marine ecotoxicity,1.0 kg,-4.6752648807191064e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Marine eutrophication,1.0 kg,-3.1809484381412794e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Photochemical Ozone Formation,1.0 kg,0.007988981201968752,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Terrestrial acidification,1.0 kg,4.894907064575541e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Terrestrial ecotoxicity,1.0 kg,0.012378075776974288,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, food, at landfill",Water consumption,1.0 kg,-0.041525716569185536,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Freshwater ecotoxicity,1.0 kg,-2.405290271406292e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Freshwater eutrophication,1.0 kg,6.7993361513e-8,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Global warming,1.0 kg,1.0320072500122794,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Land use,1.0 kg,0.0014226701119498298,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Marine ecotoxicity,1.0 kg,-3.15992992049276e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Marine eutrophication,1.0 kg,-2.2519576680591344e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Photochemical Ozone Formation,1.0 kg,0.005970898458540558,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Terrestrial acidification,1.0 kg,3.7148736098168117e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Terrestrial ecotoxicity,1.0 kg,0.011566356712875064,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, garden and green, at landfill",Water consumption,1.0 kg,-0.030355201749692744,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Freshwater ecotoxicity,1.0 kg,-5.908099181480583e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Freshwater eutrophication,1.0 kg,-1.2830034341600001e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Global warming,1.0 kg,2.1400589391773406,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Land use,1.0 kg,0.00140138047220597,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Marine ecotoxicity,1.0 kg,-7.990065935787072e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Marine eutrophication,1.0 kg,-5.213117881752083e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Photochemical Ozone Formation,1.0 kg,0.012403535631672102,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Terrestrial acidification,1.0 kg,7.476226849033768e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Terrestrial ecotoxicity,1.0 kg,0.014153713460061128,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, mixed paper, at landfill",Water consumption,1.0 kg,-0.0659612152309124,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Freshwater ecotoxicity,1.0 kg,-0.0011265331850623592,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Freshwater eutrophication,1.0 kg,-4.28514336108e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Global warming,1.0 kg,3.8347257378510227,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Land use,1.0 kg,0.0013688195628415,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Marine ecotoxicity,1.0 kg,-0.00153773261802724,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Marine eutrophication,1.0 kg,-9.7419496414302e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Photochemical Ozone Formation,1.0 kg,0.022241685521039653,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Terrestrial acidification,1.0 kg,0.0013228883961970196,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Terrestrial ecotoxicity,1.0 kg,0.018110853968774644,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, office paper, at landfill",Water consumption,1.0 kg,-0.12041746436623654,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Freshwater ecotoxicity,1.0 kg,-5.873757010374448e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Freshwater eutrophication,1.0 kg,-1.26375891605e-7,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Global warming,1.0 kg,2.129195481449403,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Land use,1.0 kg,0.00140158903877923,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Marine ecotoxicity,1.0 kg,-7.942710293423736e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Marine eutrophication,1.0 kg,-5.18408636603161e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Photochemical Ozone Formation,1.0 kg,0.012340470588990144,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Terrestrial acidification,1.0 kg,7.43935078841912e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Terrestrial ecotoxicity,1.0 kg,0.014128351510631456,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, rubber and leather, at landfill",Water consumption,1.0 kg,-0.06561214137551469,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Freshwater ecotoxicity,1.0 kg,-3.29816269353807e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Freshwater eutrophication,1.0 kg,1.7957744367000006e-8,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Global warming,1.0 kg,1.3144517676538747,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Land use,1.0 kg,0.0014172432952922899,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Marine ecotoxicity,1.0 kg,-4.3911404937192863e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Marine eutrophication,1.0 kg,-3.0067631970501237e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Photochemical Ozone Formation,1.0 kg,0.007610590463366838,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Terrestrial acidification,1.0 kg,4.673649877578044e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Terrestrial ecotoxicity,1.0 kg,0.012225877957637946,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, textiles, at landfill",Water consumption,1.0 kg,-0.03943124267896127,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Freshwater ecotoxicity,1.0 kg,-2.5735620453706386e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Freshwater eutrophication,1.0 kg,5.8563590529000004e-8,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Global warming,1.0 kg,1.0852371415650652,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Land use,1.0 kg,0.00142164731469318,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Marine ecotoxicity,1.0 kg,-3.3919652667441046e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Marine eutrophication,1.0 kg,-2.3942091726701046e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Photochemical Ozone Formation,1.0 kg,0.00627991739730919,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Terrestrial acidification,1.0 kg,3.895565898618433e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Terrestrial ecotoxicity,1.0 kg,0.011690651250975662,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"waste treatment, wood and woodwaste, at landfill",Water consumption,1.0 kg,-0.03206568820971973,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Freshwater ecotoxicity,1.0 m3,0.0253998977843855,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Freshwater eutrophication,1.0 m3,7.64128572506e-5,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Global warming,1.0 m3,2.607922141918548,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Land use,1.0 m3,0.011141714741174901,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Marine ecotoxicity,1.0 m3,0.0367150419073266,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Marine eutrophication,1.0 m3,6.255502732097809e-6,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Photochemical Ozone Formation,1.0 m3,0.0024088580021186016,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Terrestrial acidification,1.0 m3,0.001781028274045481,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Terrestrial ecotoxicity,1.0 m3,3.0655440480102003,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Water and Wastewater Melbourne,Water consumption,1.0 m3,2.025476176557688,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Freshwater ecotoxicity,1.0 kg,-5.158600016382928e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Freshwater eutrophication,1.0 kg,-8.6299265538625e-8,kg P eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Global warming,1.0 kg,1.9029683409705012,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Land use,1.0 kg,0.0014059357247794,m2a crop eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Marine ecotoxicity,1.0 kg,-6.956557316280927e-4,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Marine eutrophication,1.0 kg,-4.579516235633154e-7,kg N eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Photochemical Ozone Formation,1.0 kg,0.011027140454572341,kg NOx eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Terrestrial acidification,1.0 kg,6.671407970129469e-4,kg SO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Terrestrial ecotoxicity,1.0 kg,0.01360009632617687,"kg 1,4-DCB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+general waste at landfill,Water consumption,1.0 kg,-0.058342576183632734,m3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,1,yes,1,2202,Liquefied petroleum gas,25.7,GJ/kL,60.6,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",1557.42,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,2,yes,1,2320,Diesel oil post-2004,38.6,GJ/kL,70.41,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",2717.826,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,3,yes,1,2662,Petrol / Gasoline post-2004,34.2,GJ/kL,67.62,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",2312.604,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,4,yes,1,2737,Refrigerants,1,NA,1,Climate Active activity data calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,5,yes,1,2841,Natural Gas VIC (metro) (GJ),1,NA,51.53,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",51.53,GJ,kg CO2-e/GJ
+NA,NA,NA,NA,NA,6,yes,1,2693,Battery electric vehicle (BEV): medium car (direct emissions),1,NA,0,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0,km,kg CO2-e/km
+NA,NA,NA,NA,NA,7,yes,2,2003,"Electricity (location-based method, scope 2)",1,NA,1,Climate Active electricity calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,8,yes,2,2005,"Electricity (market-based method, scope 2)",1,NA,1,Climate Active electricity calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,9,yes,3,2202,Liquefied petroleum gas (indirect emissions),25.7,GJ/kL,20.2,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",519.14,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,10,yes,3,2004,"Electricity (location-based method, scope 3)",1,NA,1,Climate Active electricity calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,11,yes,3,2006,"Electricity (market-based method, scope 3)",1,NA,1,Climate Active electricity calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,12,yes,3,2320,Diesel oil post-2004 (indirect emissions),38.6,GJ/kL,17.3,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",667.78,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,13,yes,3,2662,Petrol / Gasoline post-2004 (indirect emissions),34.2,GJ/kL,17.2,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",588.24,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,14,yes,3,2693,Battery electric vehicle (BEV): medium car (indirect emissions),1,NA,0.06433634899328859,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.064336349,km,kg CO2-e/km
+NA,NA,NA,NA,NA,15,yes,3,2841,Natural Gas VIC (metro) (GJ) (indirect emissions),1,NA,4,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",4,GJ,kg CO2-e/GJ
+NA,NA,NA,NA,NA,16,yes,3,1002,Cleaning,1,NA,0.10960148768446332,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.109601488,$,kg CO2-e/$
+NA,NA,NA,NA,NA,17,yes,3,1019,"Computer and electrical components, hardware and accessories",1,NA,0.1359189277098684,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.135918928,$,kg CO2-e/$
+NA,NA,NA,NA,NA,18,yes,3,1034,Non-residential building construction and interior finishing,1,NA,0.2525686631474422,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.252568663,$,kg CO2-e/$
+NA,NA,NA,NA,NA,19,yes,3,1049,Food & catering,1,NA,0.1988477550190334,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.198847755,$,kg CO2-e/$
+NA,NA,NA,NA,NA,20,yes,3,1077,Computer and technical services,1,NA,0.13868656534580678,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.138686565,$,kg CO2-e/$
+NA,NA,NA,NA,NA,21,yes,3,1084,Storage,1,NA,0.1372550846485753,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.137255085,$,kg CO2-e/$
+NA,NA,NA,NA,NA,22,yes,3,1085,Telecommunications,1,NA,0.1554489274327761,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.155448927,$,kg CO2-e/$
+NA,NA,NA,NA,NA,23,yes,3,1099,Electronic office equipment,1,NA,0.1359189277098684,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.135918928,$,kg CO2-e/$
+NA,NA,NA,NA,NA,24,yes,3,1102,Office Furniture,1,NA,0.17513193691308776,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.175131937,$,kg CO2-e/$
+NA,NA,NA,NA,NA,25,yes,3,1105,Printing and stationery,1,NA,0.25786673457810555,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.257866735,$,kg CO2-e/$
+NA,NA,NA,NA,NA,26,yes,3,1110,Paper Products,1,NA,0.25039635862466336,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.250396359,$,kg CO2-e/$
+NA,NA,NA,NA,NA,27,yes,3,1126,Education,1,NA,0.080375412034657,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.080375412,$,kg CO2-e/$
+NA,NA,NA,NA,NA,28,yes,3,1132,Motor vehicle repairs and maintenance,1,NA,0.17937389989533167,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.1793739,$,kg CO2-e/$
+NA,NA,NA,NA,NA,29,yes,3,1139,Subscriptions & periodicals,1,NA,0.16795804977236825,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.16795805,$,kg CO2-e/$
+NA,NA,NA,NA,NA,30,yes,3,1144,Interest groups & Memberships,1,NA,0.11462677906385374,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.114626779,$,kg CO2-e/$
+NA,NA,NA,NA,NA,31,yes,3,1148,Courier services,1,NA,0.2302709915078188,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.230270992,$,kg CO2-e/$
+NA,NA,NA,NA,NA,32,yes,3,1160,Storage services,1,NA,0.17320473681738335,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.173204737,$,kg CO2-e/$
+NA,NA,NA,NA,NA,33,yes,3,1205,Travel and tourist agency services,1,NA,0.11215950770338132,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.112159508,$,kg CO2-e/$
+NA,NA,NA,NA,NA,34,yes,3,1111,Architectural services,1,NA,0.13822463906267918,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.138224639,$,kg CO2-e/$
+NA,NA,NA,NA,NA,35,yes,3,1198,Market research and other business management services,1,NA,0.1288498,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.1288498,$,kg CO2-e/$
+NA,NA,NA,NA,NA,36,yes,3,1112,Surveying services,1,NA,0.16704189535376238,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.167041895,$,kg CO2-e/$
+NA,NA,NA,NA,NA,37,yes,3,1038,Prefabricated buildings and structures,1,NA,1.2175612126373707,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",1.217561213,$,kg CO2-e/$
+NA,NA,NA,NA,NA,38,yes,3,1011,Building and facility maintenance and repair services,1,NA,0.18213632123977255,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.182136321,$,kg CO2-e/$
+NA,NA,NA,NA,NA,39,yes,3,1203,Security and personal safety,1,NA,0.23194733594917807,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.231947336,$,kg CO2-e/$
+NA,NA,NA,NA,NA,40,yes,3,1133,Motor vehicles,1,NA,0.33234602096098187,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.332346021,$,kg CO2-e/$
+NA,NA,NA,NA,NA,41,No,3,1202,Real estate agent services,1,NA,0.1238573448325532,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.123857345,$,kg CO2-e/$
+NA,NA,NA,NA,NA,42,yes,3,1159,Photographic and scientific equipment,1,NA,0.17566614692580432,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.175666147,$,kg CO2-e/$
+NA,NA,NA,NA,NA,43,yes,3,1149,Postal services,1,NA,0.23656812727144452,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.236568127,$,kg CO2-e/$
+NA,NA,NA,NA,NA,44,yes,3,1170,Business services,1,NA,0.09377639247672935,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.093776392,$,kg CO2-e/$
+NA,NA,NA,NA,NA,45,yes,3,1186,Advertising services,1,NA,0.12010849300466304,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.120108493,$,kg CO2-e/$
+NA,NA,NA,NA,NA,46,yes,3,1193,Legal services,1,NA,0.12954442348653766,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.129544423,$,kg CO2-e/$
+NA,NA,NA,NA,NA,47,yes,3,1204,Technical services,1,NA,0.1631913932320877,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.163191393,$,kg CO2-e/$
+NA,NA,NA,NA,NA,48,yes,3,4001,Wastewater treatment - Melbourne,1,NA,1.6268193,"AusLCI published processes, v1.42, CN assumption, released May 2023,  https://www.auslci.com.au/index.php/EmissionFactors",1.6268193,m3,kg CO2e/m3
+NA,NA,NA,NA,NA,49,yes,3,1250,Water supply and wastewater treatment - Melbourne,1,NA,2.2580327,"AusLCI published processes, v1.42, CN assumption, released May 2023,  https://www.auslci.com.au/index.php/EmissionFactors",2.2580327,kL,kg CO2-e/kL
+NA,NA,NA,NA,NA,50,yes,3,2148,Domestic hotel 2 Stars,1,NA,37.59280459478778,"Cornell Hotel Sustainability Benchmarking Index 2023, Rooms Footprint Per Occupied Room (M1), Limited service, median, Australia, https://greenview.sg/services/chsb-index/",37.59280459,nights,kg CO2-e/nights
+NA,NA,NA,NA,NA,51,yes,3,2149,Domestic hotel 3 Stars,1,NA,36.35502371248683,"Cornell Hotel Sustainability Benchmarking Index 2023, Rooms Footprint Per Occupied Room (M1), 3 stars, median, Australia, https://greenview.sg/services/chsb-index/",36.35502371,nights,kg CO2-e/nights
+NA,NA,NA,NA,NA,52,yes,3,2150,Domestic hotel 4 Stars,1,NA,43.11919365758919,"Cornell Hotel Sustainability Benchmarking Index 2023, Rooms Footprint Per Occupied Room (M1), 4 stars, median, Australia, https://greenview.sg/services/chsb-index/",43.11919366,nights,kg CO2-e/nights
+NA,NA,NA,NA,NA,53,yes,3,4000,Accommodation services - Industry price,1,NA,0.33798857908847185,IELAB Database 2014 adjusted for inflation to 2023,0.337988579,$,kg CO2e/$
+NA,NA,NA,NA,NA,54,yes,3,2303,General waste (municipal waste),1,NA,1600,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",1600,tonne,kg CO2-e/tonne
+NA,NA,NA,NA,NA,55,yes,1,2321,Clinical waste incineration,1,NA,879,"Department of Climate Change, Energy, the Environment, and Water (2023), ""National Greenhouse Accounts Factors: 2023"", last updated 17 August 2023, https://www.dcceew.gov.au/climate-change/publications/national-greenhouse-accounts-factors-2023",879,tonne,kg CO2-e/tonne
+NA,NA,NA,NA,NA,56,yes,3,2314,Recycling,1,NA,0,"Greenhouse Gas Protocol for Products - Chapter 9, https://ghgprotocol.org/sites/default/files/standards/Product-Life-Cycle-Accounting-Reporting-Standard_041613.pdf",0,tonne,kg CO2-e/tonne
+NA,NA,NA,NA,NA,57,yes,3,2612,Train,1,NA,0.04442913767404933,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.044429138,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,58,yes,3,2613,Bicycle,1,NA,0,Climate Active,0,km,kg CO2-e/km
+NA,NA,NA,NA,NA,59,yes,3,2615,Walk,1,NA,0,Climate Active,0,km,kg CO2-e/km
+NA,NA,NA,NA,NA,60,yes,3,2616,Bus,1,NA,0.12708039463087248,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.127080395,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,61,yes,3,2619,Motorbike/scooter,1,NA,0.14323500528719005,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.143235005,km,kg CO2-e/km
+NA,NA,NA,NA,NA,62,yes,3,2621,Light rail and tram,1,NA,0.03609183165127641,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.036091832,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,63,yes,3,2627,"Long business class flights (>3,700km)",1,NA,0.6516569302013423,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.65165693,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,64,yes,3,2628,"Long economy class flights (>3,700km)",1,NA,0.22471828053691276,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.224718281,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,65,yes,3,2629,"Long first class flights (>3,700km)",1,NA,0.8988430295302012,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.89884303,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,66,yes,3,2631,"Long premium economy class flights (>3,700km)",1,NA,0.3595251932885906,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.359525193,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,67,yes,3,2639,"Short business class flights (>400km, ≤3,700km)",1,NA,0.308032877852349,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.308032878,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,68,yes,3,2640,"Short economy class flights (>400km, ≤3,700km)",1,NA,0.20535935436241612,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.205359354,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,69,yes,3,2643,Very short flights (≤400km),1,NA,0.30607678523489934,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.306076785,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,70,yes,3,2684,Diesel : Medium Car,1,NA,0.2079464488805369,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.207946449,km,kg CO2-e/km
+NA,NA,NA,NA,NA,71,yes,3,2688,Hybrid: Medium Car,1,NA,0.13734843624161072,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.137348436,km,kg CO2-e/km
+NA,NA,NA,NA,NA,72,yes,3,2693,Battery electric vehicle (BEV): medium car,1,NA,0.06433634899328859,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.064336349,km,kg CO2-e/km
+NA,NA,NA,NA,NA,73,yes,3,2699,Petrol: Medium Car,1,NA,0.22767853422818793,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.227678534,km,kg CO2-e/km
+NA,NA,NA,NA,NA,74,yes,3,2715,Ferry : Foot passenger,1,NA,0.022953142878090575,"UK Department for Energy Security and Net Zero & Department for Business, Energy & Industrial Strategy (2023), ""Greenhouse gas reporting: conversion factors 2023"", last updated 28 June 2023, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023",0.022953143,pax.km,kg CO2-e/pax.km
+NA,NA,NA,NA,NA,75,yes,3,5000,calculator - Result A Total,1,NA,1,Climate Active WFH calculator,1,kg CO2-e,kg CO2-e/kg CO2-e
+NA,NA,NA,NA,NA,76,yes,3,1236,Food products,1,NA,0.30126586587298543,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.301265866,$,kg CO2-e/$
+NA,NA,NA,NA,NA,77,yes,3,1075,Plants (from nurseries),1,NA,0.271877702,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.271877702,$,kg CO2-e/$
+NA,NA,NA,NA,NA,78,yes,3,1124,Clothing,1,NA,0.09341155793475461,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.093411558,$,kg CO2-e/$
+NA,NA,NA,NA,NA,79,yes,3,1089,Insurance,1,NA,0.03712725374544198,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.037127254,$,kg CO2-e/$
+NA,NA,NA,NA,NA,80,yes,3,1047,Animal food,1,NA,0.3170799057385594,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.317079906,$,kg CO2-e/$
+NA,NA,NA,NA,NA,81,yes,3,2727,Taxi - Melbourne,1,NA,0.1931708712327027,"National Transport Commission (2022), ""Carbon Dioxide Emissions Intensity for New Australian Light Vehicles 2021"", 10% uplift factor applied, WTT from UK Government 2023 conversion factors, https://www.ntc.gov.au/light-vehicle-emissions-intensity-australia",0.193170871,km,kg CO2-e/km
+NA,NA,NA,NA,NA,82,yes,3,1208,Parking & Tolls,1,NA,0.21778752303135632,"IELab scope 3 GHG emission factors, forecasted for 2021, adjusted for inflation from the 2018 base year.",0.217787523,$,kg CO2-e/$
+Investments,Global warming,kg CO2-e/kg CO2-e,1,kg CO2 eq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+No GoogleEarth layer possible for EQ with the native scale, contains too much detail to open in GoogleEarth
