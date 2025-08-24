@@ -6,16 +6,17 @@ This repository implements an end-to-end biodiversity footprint assessment for o
 
 ## Repository structure
 .
-├── 01_biodiversity_footprint_tool.R   # Core biodiversity footprint calculation  
-├── 02_results_mapper.R                # Geographic visualisation of procurement impacts  
-├── impact_data_cleaner.R              # [Reference] Extracts LC-Impact, EXIOBASE & AusLCI factors 
-│                                      #   (note: EXIOBASE raw files removed due to >6GB size)  
-├── input_data_cleaner.R               # [Reference] Prepares input_file.xlsx for UniMelb procurement  
-├── input_file.xlsx                    # Template for organisational activity data  
-├── processed_data/                    # Cleaned and processed impact factors  
-├── results/                           # Generated Excel and spatial outputs  
-├── auslci/                            # Original AusLCI data files  
-└── currency_handling/                 # ABS & other sources for inflation, currency & basic price factors  
+├── 01_biodiversity_footprint_tool.R   # Core biodiversity footprint calculation
+├── 02_results_mapper.R                # Geographic visualisation of procurement impacts
+├── impact_data_cleaner.R              # [Reference] Extracts LC-Impact, EXIOBASE & AusLCI factors
+│                                      # (EXIOBASE raw files removed due to >6GB size)
+├── input_data_cleaner.R               # [Reference] Prepares input_file.xlsx for UniMelb procurement
+├── input_file.xlsx                    # Template for organisational activity data
+│
+├── processed_data/                    # Cleaned and processed impact factors
+├── results/                           # Generated Excel and spatial outputs
+├── auslci/                            # Original AusLCI data files
+└── currency_handling/                 # ABS & other sources for inflation/currency factors
 
 ## Primary scripts
 
@@ -88,6 +89,6 @@ Note: LC-Impact’s PDF metrics are best interpreted as relative indicators of b
 
 ## References
 
-- The Biodiversity Footprint Database: https://zenodo.org/records/8369650  
+- The Biodiversity Footprint Database (EXIOBASE data utilised. Early access provided by El Geneidy, S): El Geneidy, S., Baumeister, S., Peura, M., & Kotiaho, J. S. (2023). The Biodiversity Footprint Database (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8369650  
 - AusLCI LCA Database used: https://www.lifecycles.com.au  
-- ALCAS: https://www.alcas.asn.au
+- The original AusLCI datasets from ALCAS: https://www.alcas.asn.au
