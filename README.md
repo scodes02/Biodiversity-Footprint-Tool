@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements an end-to-end biodiversity footprint assessment for organisations. Although optimised for universities operating in Victoria, Australia, workflow can be applied to any organisation within Australia with some tweaks to characterisation factors utilised. The workflow quantifies both midpoint and endpoint biodiversity impacts associated with organisational activities and provides geographic visualisations of procurement-related impacts.
+This repository provides an end-to-end workflow for assessing organisational biodiversity footprints. While it has been tailored for universities in Victoria, Australia, it can be adapted for use by any organisation across the country by adjusting the characterisation factors applied. The workflow quantifies both midpoint and endpoint biodiversity impacts from organisational activities and generates geographic visualisations of procurement-related impacts.
 
 ## Repository structure
 ```text
