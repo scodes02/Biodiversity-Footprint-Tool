@@ -9,9 +9,9 @@ This repository provides an end-to-end workflow for assessing organisational bio
 .
 ├── 01_biodiversity_footprint_tool.R   # Core biodiversity footprint calculation
 ├── 02_results_mapper.R                # Geographic visualisation of procurement impacts
-├── impact_data_cleaner.R              # [Reference] Extracts LC-Impact, EXIOBASE & AusLCI factors
+├── impact_data_cleaner.R              # Extracts LC-Impact, EXIOBASE & AusLCI factors
 │                                      # (EXIOBASE raw files removed due to >6GB size)
-├── input_data_cleaner.R               # [Reference] Prepares input_file.xlsx for UniMelb procurement
+├── input_data_cleaner.R               # Prepares input_file.xlsx for UniMelb procurement
 ├── input_file.xlsx                    # Template for organisational activity data
 │
 ├── processed_data/                    # Cleaned and processed impact factors
